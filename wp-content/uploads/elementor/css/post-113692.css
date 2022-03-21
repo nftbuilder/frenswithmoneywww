@@ -133,12 +133,10 @@ img {
 
 .text-container > span {
   text-transform: uppercase;
-  font-size: 16vmin;;
+  font-size: 6.5vw;
   align-items: center;
-  flex-wrap: wrap;
   justify-content: center;
   color: #FFF;
-  height: 100vh;
   font-family: 'Bebas Neue', cursive;
   animation: glow 6s ease-in-out infinite;
 }
