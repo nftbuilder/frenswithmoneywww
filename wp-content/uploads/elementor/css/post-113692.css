@@ -133,7 +133,7 @@ img {
 
 .text-container > span {
   text-transform: uppercase;
-  font-size: calc(4vw + 4vh + 2vmin);
+  font-size: 4.5vw;
   align-items: center;
   justify-content: center;
   color: #FFF;
