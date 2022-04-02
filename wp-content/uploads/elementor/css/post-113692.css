@@ -137,7 +137,7 @@ img {
   align-items: center;
   justify-content: center;
   color: #FFF;
-  font-family: 'Bebas Neue', cursive;
+  font-family: "theboldfont", Sans-serif;
   animation: glow 6s ease-in-out infinite;
 }
 
