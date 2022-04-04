@@ -2,7 +2,7 @@ console.clear();
 console.log('lsakdfalskjdflnksd');
 
 const config = {
-  src: 'https://i.ibb.co/Qf0m26z/open-peeps-sheet.png',
+  src: 'https://i.imgur.com/cj137xN.png',
   rows: 15,
   cols: 7 };
 
