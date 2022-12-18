@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0e6b4bca.css",
-    "main.js": "/static/js/main.fa923dc9.js",
+    "main.js": "/static/js/main.d02e92b8.js",
     "static/media/coming-soon-bg.png": "/static/media/coming-soon-bg.1e40c0cf564ca0223122.png",
     "static/media/h1_banner_bg.png": "/static/media/h1_banner_bg.0147fbf0c22b7974c423.png",
     "static/media/v1_footer_bg.png": "/static/media/v1_footer_bg.e9117eca659a7f48ae62.png",
@@ -76,9 +76,11 @@
     "static/media/crew_avatar6.png": "/static/media/crew_avatar6.5483981fe3a0dd90827a.png",
     "static/media/crew_avatar2.png": "/static/media/crew_avatar2.c956acac4d19be4a4a96.png",
     "static/media/story-img4.png": "/static/media/story-img4.7e4ce919eab9bdee15fb.png",
+    "static/media/aboutus_card_icon6.svg": "/static/media/aboutus_card_icon6.b5ec3ea4f5d8ed734bdb885e684ce04d.svg",
     "static/media/story-img1.png": "/static/media/story-img1.5ac0cddd2c5f21470b18.png",
     "static/media/story-img3.png": "/static/media/story-img3.2ab7fbe986de8cc15073.png",
     "static/media/crew_avatar1.png": "/static/media/crew_avatar1.1cc113dcac2f05804bed.png",
+    "static/media/aboutus_card_icon5.svg": "/static/media/aboutus_card_icon5.3f42ef33750fb81c549c03d766a28847.svg",
     "static/media/v5-coin-icon.svg": "/static/media/v5-coin-icon.498d015cacbdf06aeb9acef42c9c258b.svg",
     "static/media/MetaMask.svg": "/static/media/MetaMask.8bcca7d808b8f3b5cdb99e38626c11b8.svg",
     "static/media/v5-thunder-icon.svg": "/static/media/v5-thunder-icon.d7d7149bb87d23b953aa285e61c51050.svg",
@@ -120,10 +122,10 @@
     "static/media/back_to_top.svg": "/static/media/back_to_top.95379a964052df8bddca3513fe5c2096.svg",
     "static/media/roadmap_check.svg": "/static/media/roadmap_check.5ff8ea53f1e901ac51b193a8e2c29128.svg",
     "main.0e6b4bca.css.map": "/static/css/main.0e6b4bca.css.map",
-    "main.fa923dc9.js.map": "/static/js/main.fa923dc9.js.map"
+    "main.d02e92b8.js.map": "/static/js/main.d02e92b8.js.map"
   },
   "entrypoints": [
     "static/css/main.0e6b4bca.css",
-    "static/js/main.fa923dc9.js"
+    "static/js/main.d02e92b8.js"
   ]
 }
